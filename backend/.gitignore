@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+.env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/

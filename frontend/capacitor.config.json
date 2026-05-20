@@ -1,0 +1,11 @@
+{
+  "appId": "com.ciro.crisis",
+  "appName": "CIRO Crisis",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

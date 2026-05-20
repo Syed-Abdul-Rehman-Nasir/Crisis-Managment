@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "G-10 Islamabad",
+        "city": "Islamabad",
+        "risk_level": "CRITICAL",
+        "vulnerability_index": 0.92,
+        "historical_floods_count": 14,
+        "average_drainage_capacity_mm_h": 25.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [73.0580, 33.6880],
+            [73.0720, 33.6880],
+            [73.0720, 33.6980],
+            [73.0580, 33.6980],
+            [73.0580, 33.6880]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "G-11 Islamabad",
+        "city": "Islamabad",
+        "risk_level": "HIGH",
+        "vulnerability_index": 0.81,
+        "historical_floods_count": 8,
+        "average_drainage_capacity_mm_h": 35.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [73.0450, 33.6850],
+            [73.0580, 33.6850],
+            [73.0580, 33.6950],
+            [73.0450, 33.6950],
+            [73.0450, 33.6850]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "I-8 Islamabad",
+        "city": "Islamabad",
+        "risk_level": "HIGH",
+        "vulnerability_index": 0.78,
+        "historical_floods_count": 9,
+        "average_drainage_capacity_mm_h": 30.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [73.0680, 33.6580],
+            [73.0820, 33.6580],
+            [73.0820, 33.6720],
+            [73.0680, 33.6720],
+            [73.0680, 33.6580]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "Gulberg Lahore",
+        "city": "Lahore",
+        "risk_level": "HIGH",
+        "vulnerability_index": 0.85,
+        "historical_floods_count": 11,
+        "average_drainage_capacity_mm_h": 20.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [74.3300, 31.5000],
+            [74.3600, 31.5000],
+            [74.3600, 31.5300],
+            [74.3300, 31.5300],
+            [74.3300, 31.5000]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_name": "Model Town Lahore",
+        "city": "Lahore",
+        "risk_level": "MEDIUM",
+        "vulnerability_index": 0.65,
+        "historical_floods_count": 5,
+        "average_drainage_capacity_mm_h": 40.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [74.3050, 31.4650],
+            [74.3350, 31.4650],
+            [74.3355, 31.4950],
+            [74.3050, 31.4950],
+            [74.3050, 31.4650]
+          ]
+        ]
+      }
+    }
+  ]
+}

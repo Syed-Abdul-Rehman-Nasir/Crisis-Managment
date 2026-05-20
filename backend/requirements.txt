@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+httpx
+python-dotenv
+websockets
+google-generativeai
+openai
+requests
+pytest
+pytest-asyncio
+faker
+geojson
+python-jose
+aiofiles

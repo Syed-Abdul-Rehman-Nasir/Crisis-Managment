@@ -1,0 +1,54 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --color-primary: #1D9E75;
+  --color-primary-dark: #147053;
+  --color-primary-light: #28c493;
+
+  --color-severity-low: #eab308;
+  --color-severity-medium: #f97316;
+  --color-severity-high: #ef4444;
+  --color-severity-critical: #b91c1c;
+}
+
+/* Custom Scrollbar for Dark Theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0b0f19;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f2937;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #1D9E75;
+}
+
+body {
+  margin: 0;
+  background-color: #0b0f19;
+  color: #f3f4f6;
+  font-family: 'Inter', 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  overflow-x: hidden;
+}
+
+/* Leaflet dark theme customization */
+.leaflet-container {
+  background: #0f172a !important;
+  font-family: inherit;
+}
+
+.leaflet-bar a {
+  background-color: #1e293b !important;
+  color: #f3f4f6 !important;
+  border-bottom: 1px solid #334155 !important;
+}
+
+.leaflet-bar a:hover {
+  background-color: #334155 !important;
+  color: #1D9E75 !important;
+}
