@@ -6,9 +6,9 @@
 
 ---
 
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/fcc8f95c-ba37-4e59-8001-0b572588b331" type="video/mp4">
-</video>
+## Demo
+
+[![Demo](de.png)](https://github.com/user-attachments/assets/fcc8f95c-ba37-4e59-8001-0b572588b331)
 
 ## 📖 Documentation & Blueprints
 
