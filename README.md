@@ -6,6 +6,10 @@
 
 ---
 
+<video width="100%" controls>
+  <source src="https://github.com/user-attachments/assets/fcc8f95c-ba37-4e59-8001-0b572588b331" type="video/mp4">
+</video>
+
 ## 📖 Documentation & Blueprints
 
 - 🏗️ **[System Architecture & API Reference](PROJECT_DOCUMENTATION.md)** - Full technical breakdown, agent pipeline details, and workflow diagrams.
