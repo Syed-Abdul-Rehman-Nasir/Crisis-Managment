@@ -1,10 +1,3 @@
-# IDE / editor (do not publish local AI editor config)
-.cursor/
-.cursorignore
-.vscode/
-.idea/
-*.swp
-
 # Secrets — never commit
 .env
 .env.*
